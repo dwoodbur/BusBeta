@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>lat</key>
+		<real>36.973565</real>
+		<key>long</key>
+		<real>-122.024672</real>
+		<key>no</key>
+		<integer>1</integer>
+		<key>title</key>
+		<string>Front &amp; Soquel </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.976502</real>
+		<key>long</key>
+		<real>-122.026585</real>
+		<key>no</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>Front &amp; Pacific </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.977351</real>
+		<key>long</key>
+		<real>-122.030107</real>
+		<key>no</key>
+		<integer>3</integer>
+		<key>title</key>
+		<string>Mission &amp; Sylvar </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.976998</real>
+		<key>long</key>
+		<real>-122.032803</real>
+		<key>no</key>
+		<integer>4</integer>
+		<key>title</key>
+		<string>Highland &amp; Escalona</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.977871</real>
+		<key>long</key>
+		<real>-122.033776</real>
+		<key>no</key>
+		<integer>5</integer>
+		<key>title</key>
+		<string>High &amp; Highland </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.977684</real>
+		<key>long</key>
+		<real>-122.042186</real>
+		<key>no</key>
+		<integer>6</integer>
+		<key>title</key>
+		<string>High &amp; Laurent </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.977872</real>
+		<key>long</key>
+		<real>-122.048218</real>
+		<key>no</key>
+		<integer>7</integer>
+		<key>title</key>
+		<string>High &amp; Moore </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.977384</real>
+		<key>long</key>
+		<real>-122.050296</real>
+		<key>no</key>
+		<integer>8</integer>
+		<key>title</key>
+		<string>High &amp; Cardiff</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.977634</real>
+		<key>long</key>
+		<real>-122.053583</real>
+		<key>no</key>
+		<integer>9</integer>
+		<key>title</key>
+		<string>Coolidge &amp; Main Entrance</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.98141</real>
+		<key>long</key>
+		<real>-122.051991</real>
+		<key>no</key>
+		<integer>10</integer>
+		<key>title</key>
+		<string>Coolidge &amp; Hagar</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.985902</real>
+		<key>long</key>
+		<real>-122.053433</real>
+		<key>no</key>
+		<integer>11</integer>
+		<key>title</key>
+		<string>Hagar &amp; Lower Quarry Rd</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.985902</real>
+		<key>long</key>
+		<real>-122.053433</real>
+		<key>no</key>
+		<integer>12</integer>
+		<key>title</key>
+		<string>Hagar &amp; East Remote </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.994181</real>
+		<key>long</key>
+		<real>-122.055555</real>
+		<key>no</key>
+		<integer>13</integer>
+		<key>title</key>
+		<string>Hagar &amp; Field House East </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.997425</real>
+		<key>long</key>
+		<real>-122.055093</real>
+		<key>no</key>
+		<integer>14</integer>
+		<key>title</key>
+		<string>Hagar &amp; Bookstore-Stevenson College</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.998993</real>
+		<key>long</key>
+		<real>-122.055276</real>
+		<key>no</key>
+		<integer>15</integer>
+		<key>title</key>
+		<string>McLaughlin &amp; Crown College</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.999876</real>
+		<key>long</key>
+		<real>-122.058419</real>
+		<key>no</key>
+		<integer>16</integer>
+		<key>title</key>
+		<string>McLaughlin &amp; College 9 &amp; 10 </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.999918</real>
+		<key>long</key>
+		<real>-122.062421</real>
+		<key>no</key>
+		<integer>17</integer>
+		<key>title</key>
+		<string>McLaughlin &amp; Science Hill </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.999237</real>
+		<key>long</key>
+		<real>-122.0645</real>
+		<key>no</key>
+		<integer>18</integer>
+		<key>title</key>
+		<string>Heller &amp; Kresge College </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.992973</real>
+		<key>long</key>
+		<real>-122.065111</real>
+		<key>no</key>
+		<integer>19</integer>
+		<key>title</key>
+		<string>Heller &amp; College 8/Porter </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.991876</real>
+		<key>long</key>
+		<real>-122.066785</real>
+		<key>no</key>
+		<integer>20</integer>
+		<key>title</key>
+		<string>Heller &amp; Family Student Housing</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.989863</real>
+		<key>long</key>
+		<real>-122.067265</real>
+		<key>no</key>
+		<integer>21</integer>
+		<key>title</key>
+		<string>Heller &amp; Oakes College</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.9837</real>
+		<key>long</key>
+		<real>-122.064979</real>
+		<key>no</key>
+		<integer>22</integer>
+		<key>title</key>
+		<string>Empire Grade &amp; Arboretum</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.97997</real>
+		<key>long</key>
+		<real>-122.059323</real>
+		<key>no</key>
+		<integer>23</integer>
+		<key>title</key>
+		<string>Empire Grade &amp; Tosca Terrace</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.978795</real>
+		<key>long</key>
+		<real>-122.057949</real>
+		<key>no</key>
+		<integer>24</integer>
+		<key>title</key>
+		<string>High &amp; Western Dr</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.977126</real>
+		<key>long</key>
+		<real>-122.052957</real>
+		<key>no</key>
+		<integer>25</integer>
+		<key>title</key>
+		<string>High &amp; Bay</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.977276</real>
+		<key>long</key>
+		<real>-122.050307</real>
+		<key>no</key>
+		<integer>26</integer>
+		<key>title</key>
+		<string>High &amp; Cardiff to MS</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.977619</real>
+		<key>long</key>
+		<real>-122.048558</real>
+		<key>no</key>
+		<integer>27</integer>
+		<key>title</key>
+		<string>High &amp; Moore to MS</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.977565</real>
+		<key>long</key>
+		<real>-122.042119</real>
+		<key>no</key>
+		<integer>28</integer>
+		<key>title</key>
+		<string>High &amp; Laurent to MS</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.976179</real>
+		<key>long</key>
+		<real>-122.034978</real>
+		<key>no</key>
+		<integer>29</integer>
+		<key>title</key>
+		<string>Storey &amp; Escalona</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.975922</real>
+		<key>long</key>
+		<real>-122.032686</real>
+		<key>no</key>
+		<integer>29</integer>
+		<key>title</key>
+		<string>Mission &amp; Union</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.977291</real>
+		<key>long</key>
+		<real>-122.030252</real>
+		<key>no</key>
+		<integer>29</integer>
+		<key>title</key>
+		<string>Mission &amp; Sylvar to MS</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.97614</real>
+		<key>long</key>
+		<real>-122.02805</real>
+		<key>no</key>
+		<integer>29</integer>
+		<key>title</key>
+		<string>Cedar &amp; Center</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.973501</real>
+		<key>long</key>
+		<real>-122.02715</real>
+		<key>no</key>
+		<integer>29</integer>
+		<key>title</key>
+		<string>Cedar &amp; Walnut</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.971565</real>
+		<key>long</key>
+		<real>-122.026784</real>
+		<key>no</key>
+		<integer>29</integer>
+		<key>title</key>
+		<string>Cedar &amp; Cathcart</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.970676</real>
+		<key>long</key>
+		<real>-122.025061</real>
+		<key>no</key>
+		<integer>29</integer>
+		<key>title</key>
+		<string>Santa Cruz Metro Center </string>
+	</dict>
+</array>
+</plist>

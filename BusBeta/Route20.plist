@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>lat</key>
+		<real>36.965647</real>
+		<key>long</key>
+		<real>-122.025366</real>
+		<key>no</key>
+		<integer>1</integer>
+		<key>title</key>
+		<string>Pacific &amp; Center</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.963697</real>
+		<key>long</key>
+		<real>-122.024927</real>
+		<key>no</key>
+		<integer>2</integer>
+		<key>title</key>
+		<string>Pacific &amp; Viaduct</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.961376</real>
+		<key>long</key>
+		<real>-122.025888</real>
+		<key>no</key>
+		<integer>3</integer>
+		<key>title</key>
+		<string>Bay &amp; West Cliff</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.960593</real>
+		<key>long</key>
+		<real>-122.029074</real>
+		<key>no</key>
+		<integer>4</integer>
+		<key>title</key>
+		<string>Bay &amp; Laguna</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.958022</real>
+		<key>long</key>
+		<real>-122.030979</real>
+		<key>no</key>
+		<integer>5</integer>
+		<key>title</key>
+		<string>Delaware &amp; Centennial</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.957871</real>
+		<key>long</key>
+		<real>-122.03221</real>
+		<key>no</key>
+		<integer>6</integer>
+		<key>title</key>
+		<string>Delaware &amp; Columbia</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.957105</real>
+		<key>long</key>
+		<real>-122.037611</real>
+		<key>no</key>
+		<integer>7</integer>
+		<key>title</key>
+		<string>Delaware &amp; Woodrow</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.956723</real>
+		<key>long</key>
+		<real>-122.040754</real>
+		<key>no</key>
+		<integer>8</integer>
+		<key>title</key>
+		<string>Delaware &amp; Surfside</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.955978</real>
+		<key>long</key>
+		<real>-122.045828</real>
+		<key>no</key>
+		<integer>9</integer>
+		<key>title</key>
+		<string>Delaware &amp; Fair</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.955673</real>
+		<key>long</key>
+		<real>-122.048977</real>
+		<key>no</key>
+		<integer>10</integer>
+		<key>title</key>
+		<string>Delaware &amp; Swift</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.955133</real>
+		<key>long</key>
+		<real>-122.056971</real>
+		<key>no</key>
+		<integer>11</integer>
+		<key>title</key>
+		<string>Natural Bridges Dr &amp; Delaware</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.959338</real>
+		<key>long</key>
+		<real>-122.057436</real>
+		<key>no</key>
+		<integer>12</integer>
+		<key>title</key>
+		<string>Natural Bridges Dr &amp; Mission</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.961464</real>
+		<key>long</key>
+		<real>-122.056615</real>
+		<key>no</key>
+		<integer>13</integer>
+		<key>title</key>
+		<string>Western Dr &amp; Beachview</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.964212</real>
+		<key>long</key>
+		<real>-122.056662</real>
+		<key>no</key>
+		<integer>14</integer>
+		<key>title</key>
+		<string>Western Dr &amp; Flower</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.968582</real>
+		<key>long</key>
+		<real>-122.058348</real>
+		<key>no</key>
+		<integer>15</integer>
+		<key>title</key>
+		<string>Western Dr &amp; Western Ct </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.970443</real>
+		<key>long</key>
+		<real>-122.058397</real>
+		<key>no</key>
+		<integer>16</integer>
+		<key>title</key>
+		<string>Western &amp; Monarch Way</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.973765</real>
+		<key>long</key>
+		<real>-122.058362</real>
+		<key>no</key>
+		<integer>17</integer>
+		<key>title</key>
+		<string>Western Dr &amp; Meder</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.978783</real>
+		<key>long</key>
+		<real>-122.057978</real>
+		<key>no</key>
+		<integer>18</integer>
+		<key>title</key>
+		<string>High &amp; Western Dr</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.977634</real>
+		<key>long</key>
+		<real>-122.053583</real>
+		<key>no</key>
+		<integer>19</integer>
+		<key>title</key>
+		<string>Coolidge &amp; Main Entrance</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.98141</real>
+		<key>long</key>
+		<real>-122.051991</real>
+		<key>no</key>
+		<integer>20</integer>
+		<key>title</key>
+		<string>Coolidge &amp; Hagar</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.985902</real>
+		<key>long</key>
+		<real>-122.053433</real>
+		<key>no</key>
+		<integer>21</integer>
+		<key>title</key>
+		<string>Hagar &amp; Lower Quarry Rd</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.985902</real>
+		<key>long</key>
+		<real>-122.053433</real>
+		<key>no</key>
+		<integer>22</integer>
+		<key>title</key>
+		<string>Hagar &amp; East Remote </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.994181</real>
+		<key>long</key>
+		<real>-122.055555</real>
+		<key>no</key>
+		<integer>23</integer>
+		<key>title</key>
+		<string>Hagar &amp; Field House East </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.997425</real>
+		<key>long</key>
+		<real>-122.055093</real>
+		<key>no</key>
+		<integer>24</integer>
+		<key>title</key>
+		<string>Hagar &amp; Bookstore-Stevenson College</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.998993</real>
+		<key>long</key>
+		<real>-122.055276</real>
+		<key>no</key>
+		<integer>25</integer>
+		<key>title</key>
+		<string>McLaughlin &amp; Crown College</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.999876</real>
+		<key>long</key>
+		<real>-122.058419</real>
+		<key>no</key>
+		<integer>26</integer>
+		<key>title</key>
+		<string>McLaughlin &amp; College 9 &amp; 10 </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.999918</real>
+		<key>long</key>
+		<real>-122.062421</real>
+		<key>no</key>
+		<integer>27</integer>
+		<key>title</key>
+		<string>McLaughlin &amp; Science Hill </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.999237</real>
+		<key>long</key>
+		<real>-122.0645</real>
+		<key>no</key>
+		<integer>28</integer>
+		<key>title</key>
+		<string>Heller &amp; Kresge College </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.992973</real>
+		<key>long</key>
+		<real>-122.065111</real>
+		<key>no</key>
+		<integer>29</integer>
+		<key>title</key>
+		<string>Heller &amp; College 8/Porter </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.991876</real>
+		<key>long</key>
+		<real>-122.066785</real>
+		<key>no</key>
+		<integer>30</integer>
+		<key>title</key>
+		<string>Heller &amp; Family Student Housing</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.989863</real>
+		<key>long</key>
+		<real>-122.067265</real>
+		<key>no</key>
+		<integer>31</integer>
+		<key>title</key>
+		<string>Heller &amp; Oakes College</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.9837</real>
+		<key>long</key>
+		<real>-122.064979</real>
+		<key>no</key>
+		<integer>32</integer>
+		<key>title</key>
+		<string>Empire Grade &amp; Arboretum</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.97997</real>
+		<key>long</key>
+		<real>-122.059323</real>
+		<key>no</key>
+		<integer>33</integer>
+		<key>title</key>
+		<string>Empire Grade &amp; Tosca Terrace</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.974788</real>
+		<key>long</key>
+		<real>-122.058432</real>
+		<key>no</key>
+		<integer>34</integer>
+		<key>title</key>
+		<string>Western Dr &amp; Meder to MS</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.970358</real>
+		<key>long</key>
+		<real>-122.058495</real>
+		<key>no</key>
+		<integer>35</integer>
+		<key>title</key>
+		<string>Western &amp; Monarch Way to MS</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.968785</real>
+		<key>long</key>
+		<real>-122.058512</real>
+		<key>no</key>
+		<integer>36</integer>
+		<key>title</key>
+		<string>Western Dr &amp; Western Ct </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.966554</real>
+		<key>long</key>
+		<real>-122.057145</real>
+		<key>no</key>
+		<integer>37</integer>
+		<key>title</key>
+		<string>Western &amp; Cypress Park</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.964517</real>
+		<key>long</key>
+		<real>-122.056715</real>
+		<key>no</key>
+		<integer>38</integer>
+		<key>title</key>
+		<string>Western Dr &amp; Flower to MS </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.958877</real>
+		<key>long</key>
+		<real>-122.05753</real>
+		<key>no</key>
+		<integer>39</integer>
+		<key>title</key>
+		<string>Natural Bridges Dr &amp; Mission to MS</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.954994</real>
+		<key>long</key>
+		<real>-122.0571</real>
+		<key>no</key>
+		<integer>40</integer>
+		<key>title</key>
+		<string>Natural Bridges Dr &amp; Delaware to MS</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.954995</real>
+		<key>long</key>
+		<real>-122.054376</real>
+		<key>no</key>
+		<integer>41</integer>
+		<key>title</key>
+		<string>Delaware &amp; Swanton</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.95567</real>
+		<key>long</key>
+		<real>-122.048016</real>
+		<key>no</key>
+		<integer>42</integer>
+		<key>title</key>
+		<string>Delaware &amp; Swift to MS</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.955947</real>
+		<key>long</key>
+		<real>-122.045292</real>
+		<key>no</key>
+		<integer>43</integer>
+		<key>title</key>
+		<string>Delaware &amp; Fair</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.95627</real>
+		<key>long</key>
+		<real>-122.043061</real>
+		<key>no</key>
+		<integer>44</integer>
+		<key>title</key>
+		<string>Delaware &amp; Almar</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.956646</real>
+		<key>long</key>
+		<real>-122.040231</real>
+		<key>no</key>
+		<integer>45</integer>
+		<key>title</key>
+		<string>Delaware &amp; Bethany Curve</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.95693</real>
+		<key>long</key>
+		<real>-122.037961</real>
+		<key>no</key>
+		<integer>46</integer>
+		<key>title</key>
+		<string>Delaware &amp; Woodrow to MS</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.957467</real>
+		<key>long</key>
+		<real>-122.033982</real>
+		<key>no</key>
+		<integer>47</integer>
+		<key>title</key>
+		<string>Delaware &amp; Columbia</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.958042</real>
+		<key>long</key>
+		<real>-122.030027</real>
+		<key>no</key>
+		<integer>48</integer>
+		<key>title</key>
+		<string>Delaware &amp; Liberty</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.961243</real>
+		<key>long</key>
+		<real>-122.025896</real>
+		<key>no</key>
+		<integer>49</integer>
+		<key>title</key>
+		<string>Bay &amp; West Cliff to MS</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.964238</real>
+		<key>long</key>
+		<real>-122.02536</real>
+		<key>no</key>
+		<integer>50</integer>
+		<key>title</key>
+		<string>Second &amp; Pacific</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>36.970676</real>
+		<key>long</key>
+		<real>-122.025061</real>
+		<key>no</key>
+		<integer>51</integer>
+		<key>title</key>
+		<string>Santa Cruz Metro Center </string>
+	</dict>
+</array>
+</plist>
